@@ -1,0 +1,6 @@
+#No darles seguimiento a todas las carpetas y archivos de node_modules
+# npm install    reconstruiria todas las dependencias requeridas para que la aplicacion funcione
+node_modules/
+
+#Ignorar todos los archivos dentro de la carpeta db
+db/*.json
